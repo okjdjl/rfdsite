@@ -1,0 +1,16 @@
+{
+  "name": "rfd-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Romel FD",
+  "license": "MIT",
+  "homepage" : "https://okjdjl.github.io/rfdsite", 
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
